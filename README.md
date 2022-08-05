@@ -13,4 +13,4 @@ Tool list:
 * [EyeWitnessTheFitness](https://github.com/knavesec/EyeWitnessTheFitness) ([Blog](https://whynotsecurity.com/blog/eyewitnessthefitness/)) - Generates a single FireProx API to be used for multiple pass through API hosts. Nice to be used for large EyeWitness files without generating a unique FireProx API per host
 * [DPS](https://github.com/knavesec/DPS) - Distributed port scanning tool, generates high number of AWS Lambdas with unique IPs to scan hosts. Configurable to sleep between scan hosts to bypass scan prevention
 * [Reverse-DNS-Info](https://github.com/knavesec/Reverse-DNS-Info) - Reverse search WHOIS records by keywords to enumerate potential alternate client root domains
-
+* [o365fedenum](https://github.com/knavesec/o365fedenum) - Office365 Federated user enumeration script, based off correlated HTTP response analysis 
