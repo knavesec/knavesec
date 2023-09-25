@@ -14,3 +14,8 @@ Tool list:
 * [DPS](https://github.com/knavesec/DPS) - Distributed port scanning tool, generates high number of AWS Lambdas with unique IPs to scan hosts. Configurable to sleep between scan hosts to bypass scan prevention
 * [Reverse-DNS-Info](https://github.com/knavesec/Reverse-DNS-Info) - Reverse search WHOIS records by keywords to enumerate potential alternate client root domains
 * [o365fedenum](https://github.com/knavesec/o365fedenum) ([Blog](https://whynotsecurity.com/blog/o365fedenum/))- Office365 Federated user enumeration script, based off correlated HTTP response analysis 
+
+Conference Talks: 
+
+* [RMISC 2020 - BloodHound Use and Abuse](https://github.com/knavesec/Conference-Talks/tree/main/2021-RMISC-Bloodhound-Use-And-Abuse) - Taking BloodHound from beginner to advanced with both high level actions and in depth details
+* [Way West Hackin' Fest 2022 - Office365 Federated User Enumeration](https://github.com/knavesec/Conference-Talks/tree/main/2022-WayWestHF-Office365-Federated-UserEnum) - Enumerating Office365 users via a new dynamic response technique
